@@ -1,14 +1,14 @@
 {
   "version": 1,
   "name": "MikoEE",
-  "description": "Hi... I'm Rafal",
+  "description": "Hi... I'm Raphael",
   "icons": {
     "60": "favicons/firefox_app_60x60.png",
     "128": "favicons/firefox_app_128x128.png",
     "512": "favicons/firefox_app_512x512.png"
   },
   "developer": {
-    "name": "Rafal Mikolajczyk",
+    "name": "Ralph Mikolajczyk",
     "url": "https://mikolajczyk.ee/"
   }
 }
